@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "de.mkapps.ffwgeilsheim150",
+      "sha256_cert_fingerprints": [
+        "DA:B6:EA:B8:15:E7:68:D4:58:CE:30:C0:41:BD:D5:0B:48:60:46:15:EC:FC:19:4F:9F:A3:CE:11:38:59:6D:8D"
+      ]
+    }
+  }
+]
